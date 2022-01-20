@@ -49,10 +49,10 @@ python app.py
 ```
 ## Home Proejct
 
-![Test Image 1](.png)
+![Test Image 1](https://github.com/codejay411/Boston-housing-price-prediction/blob/main/Screenshot%20(63).png.png)
 
 ## Prediction page
 
-![Test Image 1](.png)
+![Test Image 1](https://github.com/codejay411/Boston-housing-price-prediction/blob/main/Screenshot%20(64).png.png)
 
 
